@@ -28,3 +28,14 @@
 2021-08-23 13:12:17,975 | examples.nmt.train | <module> | INFO | Translating: the united states is sometimes chilly during december , but it is sometimes freezing in june .
 
 2021-08-23 13:12:19,385 | examples.nmt.train | <module> | INFO | 	French: les états unis est parfois frisquet en décembre mais il est parfois le gel en juin eos 
+2021-08-23 18:15:35,921 | examples.nmt.train | get_logger | INFO | Started log logs/examples.nmt.train
+2021-08-23 18:16:55,730 | examples.nmt.train | get_logger | INFO | Started log logs/examples.nmt.train
+2021-08-23 23:19:50,218 | examples.nmt.train | get_logger | INFO | Started log logs/examples.nmt.train
+2021-08-23 23:34:24,500 | examples.nmt.train | get_logger | INFO | Started log logs/examples.nmt.train
+2021-08-23 23:36:29,594 | examples.nmt.train | get_logger | INFO | Started log logs/examples.nmt.train
+2021-08-23 23:38:23,757 | examples.nmt.train | <module> | INFO | Translating: the united states is mild during summer , and it is freezing in march .
+
+2021-08-23 23:38:24,505 | examples.nmt.train | <module> | INFO | 	French: les états unis est doux pendant l' été et il gèle en été eos 
+2021-08-23 23:38:40,827 | examples.nmt.train | <module> | INFO | Translating: india is sometimes rainy during winter , but it is usually mild in december .
+
+2021-08-23 23:38:41,625 | examples.nmt.train | <module> | INFO | 	French: inde est parfois pluvieux pendant l' hiver mais il est généralement doux en décembre eos 
