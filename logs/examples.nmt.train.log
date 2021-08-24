@@ -39,3 +39,40 @@
 2021-08-23 23:38:40,827 | examples.nmt.train | <module> | INFO | Translating: india is sometimes rainy during winter , but it is usually mild in december .
 
 2021-08-23 23:38:41,625 | examples.nmt.train | <module> | INFO | 	French: inde est parfois pluvieux pendant l' hiver mais il est généralement doux en décembre eos 
+2021-08-23 23:42:34,760 | examples.nmt.train | get_logger | INFO | Started log logs/examples.nmt.train
+2021-08-23 23:42:40,644 | examples.nmt.train | preprocess_data | INFO | Vocabulary size (English): 201
+2021-08-23 23:42:40,646 | examples.nmt.train | preprocess_data | INFO | Vocabulary size (French): 345
+2021-08-23 23:42:40,647 | examples.nmt.train | preprocess_data | DEBUG | En text shape: (100000, 20)
+2021-08-23 23:42:40,647 | examples.nmt.train | preprocess_data | DEBUG | Fr text shape: (100000, 20)
+2021-08-23 23:45:39,005 | examples.nmt.train | train | INFO | Loss in epoch 1: 1.1395435710455484
+2021-08-23 23:48:30,709 | examples.nmt.train | train | INFO | Loss in epoch 2: 0.22985722619691976
+2021-08-23 23:51:22,316 | examples.nmt.train | train | INFO | Loss in epoch 3: 0.06262517034311071
+2021-08-23 23:54:14,087 | examples.nmt.train | train | INFO | Loss in epoch 4: 0.04090020183960355
+2021-08-23 23:57:05,849 | examples.nmt.train | train | INFO | Loss in epoch 5: 0.03075365837372448
+2021-08-23 23:59:57,734 | examples.nmt.train | train | INFO | Loss in epoch 6: 0.02418204461297118
+2021-08-24 00:02:49,540 | examples.nmt.train | train | INFO | Loss in epoch 7: 0.019573750315715826
+2021-08-24 00:05:41,004 | examples.nmt.train | train | INFO | Loss in epoch 8: 0.016477560549652475
+2021-08-24 00:08:32,736 | examples.nmt.train | train | INFO | Loss in epoch 9: 0.01404063637182355
+2021-08-24 00:11:24,180 | examples.nmt.train | train | INFO | Loss in epoch 10: 0.012105592433631506
+2021-08-24 00:26:55,395 | examples.nmt.train | get_logger | INFO | Started log logs/examples.nmt.train
+2021-08-24 00:27:01,206 | examples.nmt.train | preprocess_data | INFO | Vocabulary size (English): 201
+2021-08-24 00:27:01,208 | examples.nmt.train | preprocess_data | INFO | Vocabulary size (French): 345
+2021-08-24 00:27:01,209 | examples.nmt.train | preprocess_data | DEBUG | En text shape: (100000, 20)
+2021-08-24 00:27:01,209 | examples.nmt.train | preprocess_data | DEBUG | Fr text shape: (100000, 20)
+2021-08-24 00:29:58,436 | examples.nmt.train | train | INFO | Loss in epoch 1: 1.066084914386425
+2021-08-24 00:32:48,936 | examples.nmt.train | train | INFO | Loss in epoch 2: 0.09806231110954178
+2021-08-24 00:35:39,635 | examples.nmt.train | train | INFO | Loss in epoch 3: 0.048461814290544594
+2021-08-24 00:38:30,419 | examples.nmt.train | train | INFO | Loss in epoch 4: 0.03268215319537647
+2021-08-24 00:41:21,170 | examples.nmt.train | train | INFO | Loss in epoch 5: 0.02493855033771024
+2021-08-24 00:44:11,787 | examples.nmt.train | train | INFO | Loss in epoch 6: 0.02025751924474942
+2021-08-24 00:47:02,262 | examples.nmt.train | train | INFO | Loss in epoch 7: 0.016707432868612617
+2021-08-24 00:49:52,830 | examples.nmt.train | train | INFO | Loss in epoch 8: 0.013918775346347162
+2021-08-24 00:52:43,335 | examples.nmt.train | train | INFO | Loss in epoch 9: 0.01186647714743517
+2021-08-24 00:55:34,033 | examples.nmt.train | train | INFO | Loss in epoch 10: 0.010216332494910859
+2021-08-24 00:55:34,247 | examples.nmt.train | <module> | INFO | Translating: my most loved fruit is the lime , but his most loved is the mango .
+
+2021-08-24 00:55:35,566 | examples.nmt.train | <module> | INFO | 	French: la mangue est jamais mon fruit aimé mais la chaux est son plus aimé eos 
+2021-08-24 18:10:39,878 | examples.nmt.train | get_logger | INFO | Started log logs/examples.nmt.train
+2021-08-24 18:11:01,184 | examples.nmt.train | get_logger | INFO | Started log logs/examples.nmt.train
+2021-08-24 18:11:21,793 | examples.nmt.train | get_logger | INFO | Started log logs/examples.nmt.train
+2021-08-24 18:11:42,199 | examples.nmt.train | get_logger | INFO | Started log logs/examples.nmt.train
